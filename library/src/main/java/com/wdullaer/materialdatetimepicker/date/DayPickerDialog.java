@@ -56,7 +56,8 @@ public class DayPickerDialog extends DatePickerDialog {
     }
 
     public DayPickerDialog() {
-        // Empty constructor required for dialog fragment.
+        mCalendar = Calendar.getInstance(Locale.US);
+        mWeekStart = mCalendar.getFirstDayOfWeek();
     }
 
     /**
@@ -75,6 +76,7 @@ public class DayPickerDialog extends DatePickerDialog {
 
         // Preset with a month with 31 days and sunday as first day of the week
         mCalendar.setFirstDayOfWeek(Calendar.SUNDAY);
+        setFirstDayOfWeek(Calendar.SUNDAY);
         mCalendar.set(Calendar.YEAR, FIXED_YEAR);
         mCalendar.set(Calendar.MONTH, FIXED_MONTH);
 
@@ -83,11 +85,11 @@ public class DayPickerDialog extends DatePickerDialog {
         // Override ranges
         super.setYearRange(FIXED_YEAR, FIXED_YEAR);
 
-        Calendar minDate = Calendar.getInstance();
+        Calendar minDate = Calendar.getInstance(Locale.US);
         minDate.set(FIXED_YEAR, FIXED_MONTH, 1);
         super.setMinDate(minDate);
 
-        Calendar maxDate = Calendar.getInstance();
+        Calendar maxDate = Calendar.getInstance(Locale.US);
         maxDate.set(FIXED_YEAR, FIXED_MONTH, 31);
         super.setMaxDate(maxDate);
 
