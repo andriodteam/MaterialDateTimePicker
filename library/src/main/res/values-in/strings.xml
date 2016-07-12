@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g> dipilih"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> dihapus"</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+
+    <string name="OrdinalDay_01">ke-1</string>
+    <string name="OrdinalDay_02">ke-2</string>
+    <string name="OrdinalDay_03">ke-3</string>
+    <string name="OrdinalDay_04">ke-4</string>
+    <string name="OrdinalDay_05">ke-5</string>
+    <string name="OrdinalDay_06">ke-6</string>
+    <string name="OrdinalDay_07">ke-7</string>
+    <string name="OrdinalDay_08">ke-8</string>
+    <string name="OrdinalDay_09">ke-9</string>
+    <string name="OrdinalDay_10">ke-10</string>
+    <string name="OrdinalDay_11">ke-11</string>
+    <string name="OrdinalDay_12">ke-12</string>
+    <string name="OrdinalDay_13">ke-13</string>
+    <string name="OrdinalDay_14">ke-14</string>
+    <string name="OrdinalDay_15">ke-15</string>
+    <string name="OrdinalDay_16">ke-16</string>
+    <string name="OrdinalDay_17">ke-17</string>
+    <string name="OrdinalDay_18">ke-18</string>
+    <string name="OrdinalDay_19">ke-19</string>
+    <string name="OrdinalDay_20">ke-20</string>
+    <string name="OrdinalDay_21">ke-21</string>
+    <string name="OrdinalDay_22">ke-22</string>
+    <string name="OrdinalDay_23">ke-23</string>
+    <string name="OrdinalDay_24">ke-24</string>
+    <string name="OrdinalDay_25">ke-25</string>
+    <string name="OrdinalDay_26">ke-26</string>
+    <string name="OrdinalDay_27">ke-27</string>
+    <string name="OrdinalDay_28">ke-28</string>
+    <string name="OrdinalDay_29">ke-29</string>
+    <string name="OrdinalDay_30">ke-30</string>
+    <string name="OrdinalDay_31">ke-31</string>
 </resources>

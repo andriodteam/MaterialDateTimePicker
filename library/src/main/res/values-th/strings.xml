@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"เลือก <xliff:g id="ITEM">%1$s</xliff:g>"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"ลบ <xliff:g id="KEY">%1$s</xliff:g> แล้ว"</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+
+    <string name="OrdinalDay_01">วันที่ 1</string>
+    <string name="OrdinalDay_02">วันที่ 2</string>
+    <string name="OrdinalDay_03">วันที่ 3</string>
+    <string name="OrdinalDay_04">วันที่ 4</string>
+    <string name="OrdinalDay_05">วันที่ 5</string>
+    <string name="OrdinalDay_06">วันที่ 6</string>
+    <string name="OrdinalDay_07">วันที่ 7</string>
+    <string name="OrdinalDay_08">วันที่ 8</string>
+    <string name="OrdinalDay_09">วันที่ 9</string>
+    <string name="OrdinalDay_10">วันที่ 10</string>
+    <string name="OrdinalDay_11">วันที่ 11</string>
+    <string name="OrdinalDay_12">วันที่ 12</string>
+    <string name="OrdinalDay_13">วันที่ 13</string>
+    <string name="OrdinalDay_14">วันที่ 14</string>
+    <string name="OrdinalDay_15">วันที่ 15</string>
+    <string name="OrdinalDay_16">วันที่ 16</string>
+    <string name="OrdinalDay_17">วันที่ 17</string>
+    <string name="OrdinalDay_18">วันที่ 18</string>
+    <string name="OrdinalDay_19">วันที่ 19</string>
+    <string name="OrdinalDay_20">วันที่ 20</string>
+    <string name="OrdinalDay_21">วันที่ 21</string>
+    <string name="OrdinalDay_22">วันที่ 22</string>
+    <string name="OrdinalDay_23">วันที่ 23</string>
+    <string name="OrdinalDay_24">วันที่ 24</string>
+    <string name="OrdinalDay_25">วันที่ 25</string>
+    <string name="OrdinalDay_26">วันที่ 26</string>
+    <string name="OrdinalDay_27">วันที่ 27</string>
+    <string name="OrdinalDay_28">วันที่ 28</string>
+    <string name="OrdinalDay_29">วันที่ 29</string>
+    <string name="OrdinalDay_30">วันที่ 30</string>
+    <string name="OrdinalDay_31">วันที่ 31</string>
 </resources>

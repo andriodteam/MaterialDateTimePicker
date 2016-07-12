@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"已選取 <xliff:g id="ITEM">%1$s</xliff:g>"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"已刪除 <xliff:g id="KEY">%1$s</xliff:g>"</string>
     <string name="mdtp_date_v1_monthyear">yyyy年M月</string>
+
+    <string name="OrdinalDay_01">一</string>
+    <string name="OrdinalDay_02">二</string>
+    <string name="OrdinalDay_03">三</string>
+    <string name="OrdinalDay_04">四</string>
+    <string name="OrdinalDay_05">五</string>
+    <string name="OrdinalDay_06">六</string>
+    <string name="OrdinalDay_07">七</string>
+    <string name="OrdinalDay_08">八</string>
+    <string name="OrdinalDay_09">九</string>
+    <string name="OrdinalDay_10">十</string>
+    <string name="OrdinalDay_11">十一</string>
+    <string name="OrdinalDay_12">十二</string>
+    <string name="OrdinalDay_13">十三</string>
+    <string name="OrdinalDay_14">十四</string>
+    <string name="OrdinalDay_15">十五</string>
+    <string name="OrdinalDay_16">十六</string>
+    <string name="OrdinalDay_17">十七</string>
+    <string name="OrdinalDay_18">十八</string>
+    <string name="OrdinalDay_19">十九</string>
+    <string name="OrdinalDay_20">二十</string>
+    <string name="OrdinalDay_21">二十一</string>
+    <string name="OrdinalDay_22">二十二</string>
+    <string name="OrdinalDay_23">二十三</string>
+    <string name="OrdinalDay_24">二十四</string>
+    <string name="OrdinalDay_25">二十五</string>
+    <string name="OrdinalDay_26">二十六</string>
+    <string name="OrdinalDay_27">二十七</string>
+    <string name="OrdinalDay_28">二十八</string>
+    <string name="OrdinalDay_29">二十九</string>
+    <string name="OrdinalDay_30">三十</string>
+    <string name="OrdinalDay_31">三十一</string>
 </resources>

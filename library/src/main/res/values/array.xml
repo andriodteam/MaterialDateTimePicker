@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="day_of_month_ordinals">
+        <item>@string/OrdinalDay_01</item>
+        <item>@string/OrdinalDay_02</item>
+        <item>@string/OrdinalDay_03</item>
+        <item>@string/OrdinalDay_04</item>
+        <item>@string/OrdinalDay_05</item>
+        <item>@string/OrdinalDay_06</item>
+        <item>@string/OrdinalDay_07</item>
+        <item>@string/OrdinalDay_08</item>
+        <item>@string/OrdinalDay_09</item>
+        <item>@string/OrdinalDay_10</item>
+        <item>@string/OrdinalDay_11</item>
+        <item>@string/OrdinalDay_12</item>
+        <item>@string/OrdinalDay_13</item>
+        <item>@string/OrdinalDay_14</item>
+        <item>@string/OrdinalDay_15</item>
+        <item>@string/OrdinalDay_16</item>
+        <item>@string/OrdinalDay_17</item>
+        <item>@string/OrdinalDay_18</item>
+        <item>@string/OrdinalDay_19</item>
+        <item>@string/OrdinalDay_20</item>
+        <item>@string/OrdinalDay_21</item>
+        <item>@string/OrdinalDay_22</item>
+        <item>@string/OrdinalDay_23</item>
+        <item>@string/OrdinalDay_24</item>
+        <item>@string/OrdinalDay_25</item>
+        <item>@string/OrdinalDay_26</item>
+        <item>@string/OrdinalDay_27</item>
+        <item>@string/OrdinalDay_28</item>
+        <item>@string/OrdinalDay_29</item>
+        <item>@string/OrdinalDay_30</item>
+        <item>@string/OrdinalDay_31</item>
+    </string-array>
+
+</resources>

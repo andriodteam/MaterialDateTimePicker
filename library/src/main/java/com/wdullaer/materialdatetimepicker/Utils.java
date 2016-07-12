@@ -183,4 +183,19 @@ public class Utils {
             a.recycle();
         }
     }
+
+    public static String getOrdinalDay(Context context, int dayOfMonth)
+    {
+        String result;
+
+        // Sanity check the day of the month and calculate the index
+        int index = (Math.max(1, Math.min(31, dayOfMonth))) - 1;
+
+        TypedArray list = context.getResources().obtainTypedArray(R.array.day_of_month_ordinals);
+
+        result = list.getString(index);
+        list.recycle();
+
+        return result;
+    }
 }

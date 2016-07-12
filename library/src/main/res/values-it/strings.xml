@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"Elemento selezionato: <xliff:g id="ITEM">%1$s</xliff:g>"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> eliminato"</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+
+    <string name="OrdinalDay_01">1º</string>
+    <string name="OrdinalDay_02">2º</string>
+    <string name="OrdinalDay_03">3º</string>
+    <string name="OrdinalDay_04">4º</string>
+    <string name="OrdinalDay_05">5º</string>
+    <string name="OrdinalDay_06">6º</string>
+    <string name="OrdinalDay_07">7º</string>
+    <string name="OrdinalDay_08">8º</string>
+    <string name="OrdinalDay_09">9º</string>
+    <string name="OrdinalDay_10">10º</string>
+    <string name="OrdinalDay_11">11º</string>
+    <string name="OrdinalDay_12">12º</string>
+    <string name="OrdinalDay_13">13º</string>
+    <string name="OrdinalDay_14">14º</string>
+    <string name="OrdinalDay_15">15º</string>
+    <string name="OrdinalDay_16">16º</string>
+    <string name="OrdinalDay_17">17º</string>
+    <string name="OrdinalDay_18">18º</string>
+    <string name="OrdinalDay_19">19º</string>
+    <string name="OrdinalDay_20">20º</string>
+    <string name="OrdinalDay_21">21º</string>
+    <string name="OrdinalDay_22">22º</string>
+    <string name="OrdinalDay_23">23º</string>
+    <string name="OrdinalDay_24">24º</string>
+    <string name="OrdinalDay_25">25º</string>
+    <string name="OrdinalDay_26">26º</string>
+    <string name="OrdinalDay_27">27º</string>
+    <string name="OrdinalDay_28">28º</string>
+    <string name="OrdinalDay_29">29º</string>
+    <string name="OrdinalDay_30">30º</string>
+    <string name="OrdinalDay_31">31º</string>
 </resources>

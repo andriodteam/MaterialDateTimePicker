@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g> sélectionné"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"\"<xliff:g id="KEY">%1$s</xliff:g>\" supprimé"</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+
+    <string name="OrdinalDay_01">le 1er</string>
+    <string name="OrdinalDay_02">le 2</string>
+    <string name="OrdinalDay_03">le 3</string>
+    <string name="OrdinalDay_04">le 4</string>
+    <string name="OrdinalDay_05">le 5</string>
+    <string name="OrdinalDay_06">le 6</string>
+    <string name="OrdinalDay_07">le 7</string>
+    <string name="OrdinalDay_08">le 8</string>
+    <string name="OrdinalDay_09">le 9</string>
+    <string name="OrdinalDay_10">le 10</string>
+    <string name="OrdinalDay_11">le 11</string>
+    <string name="OrdinalDay_12">le 12</string>
+    <string name="OrdinalDay_13">le 13</string>
+    <string name="OrdinalDay_14">le 14</string>
+    <string name="OrdinalDay_15">le 15</string>
+    <string name="OrdinalDay_16">le 16</string>
+    <string name="OrdinalDay_17">le 17</string>
+    <string name="OrdinalDay_18">le 18</string>
+    <string name="OrdinalDay_19">le 19</string>
+    <string name="OrdinalDay_20">le 20</string>
+    <string name="OrdinalDay_21">le 21</string>
+    <string name="OrdinalDay_22">le 22</string>
+    <string name="OrdinalDay_23">le 23</string>
+    <string name="OrdinalDay_24">le 24</string>
+    <string name="OrdinalDay_25">le 25</string>
+    <string name="OrdinalDay_26">le 26</string>
+    <string name="OrdinalDay_27">le 27</string>
+    <string name="OrdinalDay_28">le 28</string>
+    <string name="OrdinalDay_29">le 29</string>
+    <string name="OrdinalDay_30">le 30</string>
+    <string name="OrdinalDay_31">le 31</string>
 </resources>

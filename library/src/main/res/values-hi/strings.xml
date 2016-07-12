@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g> चयनित"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> को हटा दिया गया"</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+
+    <string name="OrdinalDay_01">पहला</string>
+    <string name="OrdinalDay_02">दूसरा</string>
+    <string name="OrdinalDay_03">तीसरा</string>
+    <string name="OrdinalDay_04">चौथा</string>
+    <string name="OrdinalDay_05">पाँचवाँ</string>
+    <string name="OrdinalDay_06">छठा</string>
+    <string name="OrdinalDay_07">सातवाँ</string>
+    <string name="OrdinalDay_08">आठवाँ</string>
+    <string name="OrdinalDay_09">नौवाँ</string>
+    <string name="OrdinalDay_10">दसवाँ</string>
+    <string name="OrdinalDay_11">ग्यारहवाँ</string>
+    <string name="OrdinalDay_12">बारहवाँ</string>
+    <string name="OrdinalDay_13">तेरहवाँ</string>
+    <string name="OrdinalDay_14">चौदहवाँ</string>
+    <string name="OrdinalDay_15">पंद्रहवाँ</string>
+    <string name="OrdinalDay_16">सोलहवाँ</string>
+    <string name="OrdinalDay_17">सत्रहवाँ</string>
+    <string name="OrdinalDay_18">अठारहवाँ</string>
+    <string name="OrdinalDay_19">उन्नीसवाँ</string>
+    <string name="OrdinalDay_20">बीसवाँ</string>
+    <string name="OrdinalDay_21">इक्कीवाँ</string>
+    <string name="OrdinalDay_22">बाइसवाँ</string>
+    <string name="OrdinalDay_23">तेइसवाँ</string>
+    <string name="OrdinalDay_24">चौबीसवाँ</string>
+    <string name="OrdinalDay_25">पच्चीसवाँ</string>
+    <string name="OrdinalDay_26">छब्बीसवाँ</string>
+    <string name="OrdinalDay_27">सत्ताईसवाँ</string>
+    <string name="OrdinalDay_28">अट्ठाईसवाँ</string>
+    <string name="OrdinalDay_29">उनतीसवाँ</string>
+    <string name="OrdinalDay_30">तीसवाँ</string>
+    <string name="OrdinalDay_31">इकतीसवाँ</string>
 </resources>

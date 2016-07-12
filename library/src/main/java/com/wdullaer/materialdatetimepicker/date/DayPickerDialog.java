@@ -18,14 +18,17 @@ package com.wdullaer.materialdatetimepicker.date;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.text.format.DateUtils;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.wdullaer.materialdatetimepicker.R;
+import com.wdullaer.materialdatetimepicker.Utils;
 
 import java.util.Calendar;
+import java.util.Locale;
 
 /**
  * Dialog allowing users to select a date.
@@ -124,6 +127,26 @@ public class DayPickerDialog extends DatePickerDialog {
 
         return view;
     }
+
+    @Override
+    protected void updateDisplay(boolean announce) {
+        int dayOfMonth = mCalendar.get(Calendar.DAY_OF_MONTH);
+        mSelectedDayTextView.setText(Utils.getOrdinalDay(this.getActivity(), dayOfMonth));
+
+        // Accessibility.
+        long millis = mCalendar.getTimeInMillis();
+        mAnimator.setDateMillis(millis);
+        int flags = DateUtils.FORMAT_SHOW_DATE | DateUtils.FORMAT_NO_YEAR;
+        String monthAndDayText = DateUtils.formatDateTime(getActivity(), millis, flags);
+        mMonthAndDayView.setContentDescription(monthAndDayText);
+
+        if (announce) {
+            flags = DateUtils.FORMAT_SHOW_DATE | DateUtils.FORMAT_SHOW_YEAR;
+            String fullDateText = DateUtils.formatDateTime(getActivity(), millis, flags);
+            Utils.tryAccessibilityAnnounce(mAnimator, fullDateText);
+        }
+    }
+
 
     @Override
     protected DayPickerView getDayPickerView(Activity activity) {

@@ -80,4 +80,36 @@
 
     <!-- DO NOT TRANSLATE -->
     <string name="mdtp_day_of_week_label_typeface" translatable="false">sans-serif</string>
+
+    <string name="OrdinalDay_01">1st</string>
+    <string name="OrdinalDay_02">2nd</string>
+    <string name="OrdinalDay_03">3rd</string>
+    <string name="OrdinalDay_04">4th</string>
+    <string name="OrdinalDay_05">5th</string>
+    <string name="OrdinalDay_06">6th</string>
+    <string name="OrdinalDay_07">7th</string>
+    <string name="OrdinalDay_08">8th</string>
+    <string name="OrdinalDay_09">9th</string>
+    <string name="OrdinalDay_10">10th</string>
+    <string name="OrdinalDay_11">11th</string>
+    <string name="OrdinalDay_12">12th</string>
+    <string name="OrdinalDay_13">13th</string>
+    <string name="OrdinalDay_14">14th</string>
+    <string name="OrdinalDay_15">15th</string>
+    <string name="OrdinalDay_16">16th</string>
+    <string name="OrdinalDay_17">17th</string>
+    <string name="OrdinalDay_18">18th</string>
+    <string name="OrdinalDay_19">19th</string>
+    <string name="OrdinalDay_20">20th</string>
+    <string name="OrdinalDay_21">21st</string>
+    <string name="OrdinalDay_22">22nd</string>
+    <string name="OrdinalDay_23">23rd</string>
+    <string name="OrdinalDay_24">24th</string>
+    <string name="OrdinalDay_25">25th</string>
+    <string name="OrdinalDay_26">26th</string>
+    <string name="OrdinalDay_27">27th</string>
+    <string name="OrdinalDay_28">28th</string>
+    <string name="OrdinalDay_29">29th</string>
+    <string name="OrdinalDay_30">30th</string>
+    <string name="OrdinalDay_31">31st</string>
 </resources>

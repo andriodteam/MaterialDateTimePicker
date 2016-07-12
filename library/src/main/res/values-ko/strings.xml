@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g>이(가) 선택됨"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> 삭제됨"</string>
     <string name="mdtp_date_v1_monthyear">yyyy년 MMMM</string>
+
+    <string name="OrdinalDay_01">1일</string>
+    <string name="OrdinalDay_02">2일</string>
+    <string name="OrdinalDay_03">3일</string>
+    <string name="OrdinalDay_04">4일</string>
+    <string name="OrdinalDay_05">5일</string>
+    <string name="OrdinalDay_06">6일</string>
+    <string name="OrdinalDay_07">7일</string>
+    <string name="OrdinalDay_08">8일</string>
+    <string name="OrdinalDay_09">9일</string>
+    <string name="OrdinalDay_10">10일</string>
+    <string name="OrdinalDay_11">11일</string>
+    <string name="OrdinalDay_12">12일</string>
+    <string name="OrdinalDay_13">13일</string>
+    <string name="OrdinalDay_14">14일</string>
+    <string name="OrdinalDay_15">15일</string>
+    <string name="OrdinalDay_16">16일</string>
+    <string name="OrdinalDay_17">17일</string>
+    <string name="OrdinalDay_18">18일</string>
+    <string name="OrdinalDay_19">19일</string>
+    <string name="OrdinalDay_20">20일</string>
+    <string name="OrdinalDay_21">21일</string>
+    <string name="OrdinalDay_22">22일</string>
+    <string name="OrdinalDay_23">23일</string>
+    <string name="OrdinalDay_24">24일</string>
+    <string name="OrdinalDay_25">25일</string>
+    <string name="OrdinalDay_26">26일</string>
+    <string name="OrdinalDay_27">27일</string>
+    <string name="OrdinalDay_28">28일</string>
+    <string name="OrdinalDay_29">29일</string>
+    <string name="OrdinalDay_30">30일</string>
+    <string name="OrdinalDay_31">31일</string>
 </resources>

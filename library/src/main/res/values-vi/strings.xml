@@ -29,4 +29,36 @@
     <string name="mdtp_item_is_selected" msgid="2674929164900463786">"Đã chọn <xliff:g id="ITEM">%1$s</xliff:g>"</string>
     <string name="mdtp_deleted_key" msgid="6908431551612331381">"Đã xóa <xliff:g id="KEY">%1$s</xliff:g>"</string>
     <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+
+    <string name="OrdinalDay_01">ngày 1</string>
+    <string name="OrdinalDay_02">ngày 2</string>
+    <string name="OrdinalDay_03">ngày 3</string>
+    <string name="OrdinalDay_04">ngày 4</string>
+    <string name="OrdinalDay_05">ngày 5</string>
+    <string name="OrdinalDay_06">ngày 6</string>
+    <string name="OrdinalDay_07">ngày 7</string>
+    <string name="OrdinalDay_08">ngày 8</string>
+    <string name="OrdinalDay_09">ngày 9</string>
+    <string name="OrdinalDay_10">ngày 10</string>
+    <string name="OrdinalDay_11">ngày 11</string>
+    <string name="OrdinalDay_12">ngày 12</string>
+    <string name="OrdinalDay_13">ngày 13</string>
+    <string name="OrdinalDay_14">ngày 14</string>
+    <string name="OrdinalDay_15">ngày 15</string>
+    <string name="OrdinalDay_16">ngày 16</string>
+    <string name="OrdinalDay_17">ngày 17</string>
+    <string name="OrdinalDay_18">ngày 18</string>
+    <string name="OrdinalDay_19">ngày 19</string>
+    <string name="OrdinalDay_20">ngày 20</string>
+    <string name="OrdinalDay_21">ngày 21</string>
+    <string name="OrdinalDay_22">ngày 22</string>
+    <string name="OrdinalDay_23">ngày 23</string>
+    <string name="OrdinalDay_24">ngày 24</string>
+    <string name="OrdinalDay_25">ngày 25</string>
+    <string name="OrdinalDay_26">ngày 26</string>
+    <string name="OrdinalDay_27">ngày 27</string>
+    <string name="OrdinalDay_28">ngày 28</string>
+    <string name="OrdinalDay_29">ngày 29</string>
+    <string name="OrdinalDay_30">ngày 30</string>
+    <string name="OrdinalDay_31">ngày 31</string>
 </resources>
